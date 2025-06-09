@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Resume - Prem Chand Sharma</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 20px 40px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .contact {
+            font-size: 0.9em;
+            color: #555;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            text-align: center;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Prem Chand Sharma</h1>
+    <div class="contact">
+        Email: pcsharma.adm@gmail.com<br>
+        Mobile: +91-9410638741 / 09319057805<br>
+        Address: C/o Shri Nitya Nand Sharma, Village-Dousa Banjarpur, Post-Muradnagar, Ghaziabad (U.P)-201206<br>
+        Date of Birth: 07/12/1975<br>
+        Nationality: Indian<br>
+        Marital Status: Married<br>
+        Languages: English, Hindi
+    </div>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>
+            To seek a challenging career in the IT industry integrating my teaching and analytical skills for personal and organizational growth. I aim to contribute as a key person in solution development, fostering professional growth and managerial skills.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <p><strong>Total Working Experience:</strong> 22 Years<br>
+        <strong>Teaching Experience:</strong> 2 Years</p>
+
+        <ul>
+            <li>Programmer, Dept. of Computer Application, SRM IST Delhi-NCR Campus (2018 - Present)</li>
+            <li>Technical Support, Computer Sc. & Engg. Dept., Bharat Institute of Technology (2017 - Present)</li>
+            <li>System Admin, Skyline Institute of Engineering & Technology (2012 - 2017)</li>
+            <li>Asst. Network Admin, Lord Krishna Group of Institutions (2008 - 2012)</li>
+            <li>Asst. System Admin, Ajay Kumar Garg Engineering College (2002 - 2008)</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Professional Education</h2>
+        <table>
+            <tr>
+                <th>Examination</th>
+                <th>Institution</th>
+                <th>Year</th>
+                <th>%</th>
+            </tr>
+            <tr>
+                <td>RHCE</td>
+                <td>Red Hat India Pvt. Ltd. Mumbai</td>
+                <td>2011</td>
+                <td>95.6</td>
+            </tr>
+            <tr>
+                <td>MCA</td>
+                <td>IGNOU, New Delhi</td>
+                <td>2007</td>
+                <td>57.39</td>
+            </tr>
+            <tr>
+                <td>PGDCST</td>
+                <td>ET&T, Modinagar</td>
+                <td>2005</td>
+                <td>70</td>
+            </tr>
+            <tr>
+                <td>ADCA</td>
+                <td>IGNOU, New Delhi</td>
+                <td>2002</td>
+                <td>56.75</td>
+            </tr>
+            <tr>
+                <td>PGDCA</td>
+                <td>IGNOU, New Delhi</td>
+                <td>2006</td>
+                <td>56.83</td>
+            </tr>
+            <tr>
+                <td>O Level</td>
+                <td>DOEACC, New Delhi</td>
+                <td>2001</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>DCA</td>
+                <td>New Capital College, Modinagar</td>
+                <td>2000</td>
+                <td>70</td>
+            </tr>
+            <tr>
+                <td>CIC</td>
+                <td>IGNOU, New Delhi</td>
+                <td>2002</td>
+                <td>65.5</td>
+            </tr>
+            <tr>
+                <td>NCC "B" & "C"</td>
+                <td>National Credit Core</td>
+                <td>1998</td>
+                <td>C</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <table>
+            <tr>
+                <th>Examination</th>
+                <th>Board/University</th>
+                <th>Year</th>
+            </tr>
+            <tr>
+                <td>Graduate</td>
+                <td>C.C.S. University, Meerut</td>
+                <td>1999</td>
+            </tr>
+            <tr>
+                <td>Intermediate</td>
+                <td>U. P. Board, Allahabad</td>
+                <td>1996</td>
+            </tr>
+            <tr>
+                <td>High School</td>
+                <td>U. P. Board, Allahabad</td>
+                <td>1994</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Event organizer in Engineering College Technical Fest</li>
+            <li>Student coordinator of technical support</li>
+            <li>Appreciation certificate for technical support</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><strong>Operating Systems:</strong> Windows 95/98/2000/XP/2003/2008, Red Hat Enterprise Server</li>
+            <li><strong>GUI:</strong> MS Office Suite (Word, Excel, PowerPoint, Access)</li>
+            <li><strong>Languages:</strong> Java, C, HTML, Visual Basic (basic)</li>
+            <li><strong>Hardware:</strong> Intel x86 based systems, HP/Compaq servers</li>
+            <li><strong>Antivirus:</strong> e-Scan, Quick Heal, Norton, MS-Essential</li>
+            <li><strong>Network Troubleshooting:</strong> Red Hat services, Windows Servers, DNS, DHCP, Proxy, LAN/WAN, Mail Server, VPN</li>
+            <li><strong>Internet Services:</strong> TCP/IP, WiFi, Squid Proxy, VSAT, RF, Leased Line</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Project</h2>
+        <h3>AIIS (Automation of Institute Information System)</h3>
+        <p>
+            <strong>Organization:</strong> IGNOU New Delhi<br>
+            <strong>Environment:</strong> Visual Basic 6.0, SQL Server 2000<br>
+            <strong>Duration:</strong> 2 months<br>
+            <strong>Role:</strong> Developer
+        </p>
+        <p>
+            Developed a Windows-based software application to computerize institute activities such as student/staff management, library, inventory management, with strong security mechanisms and backup/restore features.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Declaration</h2>
+        <p>
+            I hereby declare that all the details furnished above are true to the best of my knowledge.<br>
+            <strong>Date:</strong> 14/11/2024<br>
+            <strong>Place:</strong> Ghaziabad<br>
+            <strong>Signature:</strong> P. C. Sharma
+        </p>
+    </div>
+
+    <div class="footer">
+        &copy; 2025 Prem Chand Sharma. All rights reserved.
+    </div>
+</div>
+
+</body>
+</html>
